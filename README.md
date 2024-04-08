@@ -1,2 +1,6 @@
-# 51-points-Facial-Landmark-contest
-This is a repository for 51-points facial landmarks detection for AI contest. The link of the contest is provided below
+# <p align = "center"> 51-points Facial Landmark Detection </p>
+## Table of contents
+- [Data Set](#data-set)
+- [Data Preprocessing](#data-preprocessing)
+- [Model](#model)
+- [Short Demo Video](#short-demo)
